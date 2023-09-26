@@ -9,5 +9,5 @@
         " que se celebrará en la localidad de "+LOCALIDAD.trim()+" entre las fechas "+FECHA_INICIO.trim()+
         " y "+FECHA_FIN.trim()+
         "Espero que el curso se desarrolle según sus expectativas. Estaremos encantados de atenderle"+
-        "Atentamente, "/n+ 
+        "Atentamente, "+ 
         "La dirección");
